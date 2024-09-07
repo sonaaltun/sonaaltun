@@ -24,6 +24,9 @@ I'm constantly improving my skills in the following areas:
 
 Feel free to [email me](mailto:your-email@example.com) if you want to connect!
 
+### 🔗 Connect with Me
+
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/sona-altun-b87037191/).
 ### ⚡ Fun Fact
 
 I enjoy coding with a cup of coffee ☕, and my best ideas usually come with caffeine!
