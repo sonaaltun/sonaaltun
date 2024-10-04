@@ -4,15 +4,14 @@
 
 I'm constantly improving my skills in the following areas:
 
-I'm constantly improving my skills in the following areas:
+- **MVC** 🏗️
+- **Entity Framework Core** 🗂️
+- **ASP.NET Core** 🌐
+- **React JS** ⚛️
+- **HTML & CSS** 🎨
+- **SQL** 💾
+- **Web API** 📡
 
-- **MVC**  <i class="fas fa-cube"></i>
-- **Entity Framework Core**  <i class="fas fa-database"></i> (alternative icon)
-- **ASP.NET Core**  <i class="fas fa-globe"></i>
-- **React JS**  <i class="fab fa-react"></i>
-- **HTML & CSS**  <i class="fab fa-html5"></i> <i class="fab fa-css3"></i>
-- **SQL**  <i class="fas fa-database"></i>
-- **Web API**  <i class="fas fa-code-branch"></i> (alternative icon)
 ### 🚀 Currently Learning
 
 - **MVC**: Creating robust web applications.
