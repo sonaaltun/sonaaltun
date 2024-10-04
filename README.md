@@ -4,13 +4,15 @@
 
 I'm constantly improving my skills in the following areas:
 
-- **MVC** [![MVC Logo](path/to/mvc.svg)](... )
-- **Entity Framework Core** [![Entity Framework Core Logo](path/to/efcore.svg)](... )
-- **ASP.NET Core** [![ASP.NET Core Logo](path/to/aspnetcore.svg)](... )
-- **React JS** [![React JS Logo](path/to/reactjs.svg)](... )
-- **HTML & CSS** [![HTML Logo](path/to/html.svg)] [![CSS Logo](path/to/css.svg)](... )
-- **SQL** [![SQL Logo](path/to/sql.svg)](... )
-- **Web API** [![Web API Logo](path/to/webapi.svg)](... )
+I'm constantly improving my skills in the following areas:
+
+- **MVC**  <i class="fas fa-cube"></i>
+- **Entity Framework Core**  <i class="fas fa-database"></i> (alternative icon)
+- **ASP.NET Core**  <i class="fas fa-globe"></i>
+- **React JS**  <i class="fab fa-react"></i>
+- **HTML & CSS**  <i class="fab fa-html5"></i> <i class="fab fa-css3"></i>
+- **SQL**  <i class="fas fa-database"></i>
+- **Web API**  <i class="fas fa-code-branch"></i> (alternative icon)
 ### 🚀 Currently Learning
 
 - **MVC**: Creating robust web applications.
